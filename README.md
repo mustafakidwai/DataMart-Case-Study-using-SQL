@@ -32,3 +32,23 @@ Created a clean version of the weekly_sales table with:
 6. Demographic Sales Analysis: Evaluated sales percentage by demographic groups for each year to understand customer behavior.
 
 7. Contribution of Age Bands to Retail Sales: Identified which age_band and demographic groups contributed the most to Retail platform sales.
+
+### Code Snippets
+1. Data Cleansing:
+   
+   ![image](https://github.com/user-attachments/assets/a4753816-37a7-4d89-83f7-1897911b0d56)
+
+ Ouput:
+ 
+ ![image](https://github.com/user-attachments/assets/b13c42ac-5365-45a8-9a30-289ba098462c)
+
+ 2. Example Insight: Total Transactions by Year
+    ![image](https://github.com/user-attachments/assets/0296e10b-3fa6-430f-9971-ab0e1896c680)
+
+    Output:
+    
+    ![image](https://github.com/user-attachments/assets/0eeb0d9f-b8cd-416a-a0ac-72f5d7231cda)
+
+
+
+   
